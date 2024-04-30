@@ -3,12 +3,6 @@
 
 Deployed at Netlify: [Link](https://aixcessibility.netlify.app/)
 
-<img src="https://github.com/rahulkarda/hackwave_nextgencoders/assets/140804626/3bfbc7e6-06df-445d-8919-d80b921f5115" width="400px" height="150px"></img>
-
-![Screenshot 2024-04-29 052815](https://github.com/rahulkarda/hackwave_nextgencoders/assets/114336304/44413b4d-69a0-4415-978d-e5145a142ed9)
-
-
-
 **AIXcessibility** is a groundbreaking project aimed at making the digital world more inclusive and accessible to everyone, especially those with disabilities. Leveraging advanced AI technologies and innovative solutions, AIXcessibility offers a range of tools and services to enhance accessibility across various digital platforms.
 
 ## Project Overview
@@ -17,22 +11,22 @@ AIXcessibility integrates a suite of tools and services designed to address dive
 
 - **Interactable AI 3D Avatar**:  
   An interactive 3D avatar with AI capabilities serves as a virtual assistant, providing assistance and guidance to users navigating digital platforms.
-![Screenshot 2024-04-28 234400](https://github.com/rahulkarda/hackwave_nextgencoders/assets/114336304/3816f46b-0f70-4656-84dd-8f53354e7b7a)
+
 
 - **Speech to Braille Translator**:  
   Utilizing speech recognition technology, AIXcessibility translates spoken words into Braille text, facilitating communication for individuals with visual impairments.
 
 - **Sign Language Recognition System**:  
   Through AI-powered sign language recognition, AIXcessibility enables real-time interpretation of sign language gestures into text or spoken language, fostering seamless communication for the deaf and hard of hearing community.
-![Screenshot (224)](https://github.com/rahulkarda/hackwave_nextgencoders/assets/114336304/717b0c24-cc53-46c7-a3ed-77c1bae898d5)
+
 
 - **Chrome Extensions**:  
   AIXcessibility offers a suite of Chrome extensions tailored to specific accessibility needs, including:
   - **Bionic Reader**: Utilizes Bionic Reading® to enhance readability for users with ADHD, cognitive disabilities, or visual impairments.
-    ![Screenshot 2024-04-29 044647](https://github.com/rahulkarda/hackwave_nextgencoders/assets/114336304/a750dbc5-070a-4352-942c-e6ebd7857f7d)
+
 
   - **Screen Reader**: Provides text-to-speech functionality for web content, assisting users with visual impairments in accessing digital information.
-    ![Screenshot 2024-04-29 044750](https://github.com/rahulkarda/hackwave_nextgencoders/assets/114336304/40770a0d-2498-4e76-b0bc-a4175870bb8e)
+   
 
 
   - **Keyboard Navigation**: Enhances keyboard accessibility for users who rely on keyboard navigation for web browsing.
@@ -67,7 +61,7 @@ AIXcessibility integrates a suite of tools and services designed to address dive
    Browse through the suite of tools and services offered by AIXcessibility, including the interactive AI 3D avatar, speech to Braille translator, sign language recognition system, and Chrome extensions.
    #### • Web Accessibility Tool
    <center>
-   <img src="https://github.com/rahulkarda/hackwave_nextgencoders/assets/114336304/0f0965d6-96ad-4193-a459-8c541424b2d7" width="400px" height="700px"></img>
+   <img src="" width="400px" height="700px"></img>
    </center>
 
 4. **Select Desired Features**:  
@@ -78,8 +72,7 @@ AIXcessibility integrates a suite of tools and services designed to address dive
 
 ## Contributors
 
-The AIXcessibility project is made possible by contributions from various individuals. Explore the list of contributors on [GitHub](https://github.com/rahulkarda/hackwave_nextgencoders/graphs/contributors).
-
+The AIXcessibility project is made possible by contributions from various individuals. Explore the list of contributors on [GitHub]
 ---
 
 Thank you for joining us in our mission to create a more inclusive digital environment with AIXcessibility! If you have any feedback or suggestions, we'd love to hear from you.
